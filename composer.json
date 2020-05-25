@@ -1,10 +1,10 @@
 {
-  "name": "laravel-frontend-presets/tailwindcss",
+  "name": "nova73-alt/css",
   "description": "Laravel frontend preset for Tailwind CSS",
   "keywords": ["laravel", "preset", "tailwindcss"],
   "license": "MIT",
   "require": {
-    "laravel/framework": "^7.0",
+    "laravel/framework": "^6.0",
     "laravel/ui": "^2.0"
   },
   "autoload": {
